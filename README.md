@@ -65,15 +65,6 @@ This MCP server provides access to your Google Calendar events and allows you to
 
 ## Usage
 
-### Running the MCP Server
-
-Before connecting to any client, you need to start the MCP server:
-
-```bash
-python calendar_mcp_server.py
-```
-
-This will start the server locally, typically on port 8000.
 
 ### Using with Claude Desktop
 
